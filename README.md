@@ -26,7 +26,7 @@ If the above points don’t work, then directly connect to the Lab VM using Remo
 
 * Click on More choices.  
 
-![](https://raw.githubusercontent.com/Ritu786/Common-Issues/main/Images/05.png)
+![](https://raw.githubusercontent.com/Ritu786/Common-Issues/main/Images/12.png)
 
 * Now, click on the Use a different account
 
